@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Project Name : Gen AI-Powered Data Profiling
 
 ## 📌 Table of Contents
 - [Introduction](#-introduction)
@@ -9,7 +9,7 @@
 - [Challenges We Faced](#-challenges-we-faced)
 - [How to Run](#-how-to-run)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
-- [Team](#-team)
+- [Team](#-team-name--neural-nomads)
 
 
 ---
@@ -110,11 +110,15 @@ Our solution was developed using a diverse set of modern technologies and tools 
         ```sh
         pip install -r requirements.txt
         ```
+        Create a .env file under Backend server/ and paste your Gemini API key
+        ```sh
+        GEMINI_API_KEY = <your_api_key>
+        ```
         Run the backend server:
         ```sh
         python main.py
         ```
-   2.   **Frontend Dependencies:**
+   3.   **Frontend Dependencies:**
         Navigate to the frontend directory.
         ```sh
         cd Chatbot
@@ -122,6 +126,10 @@ Our solution was developed using a diverse set of modern technologies and tools 
         Install the required dependencies using pip:
         ```sh
         pip install -r requirements.txt
+        ```
+        Setup chainlit auth secret `CHAINLIT_AUTH_SECRET=<secret_key_obtained>` in .env file by running this command
+        ```sh
+        chainlit create-secret
         ```
         Run the frontend application:
         ```sh
@@ -135,10 +143,10 @@ Our solution was developed using a diverse set of modern technologies and tools 
 - 🔹 Database: SQLite3
 - 🔹 Other: Gemini AI API
 
-## 👥 Team
+## 👥 Team Name : Neural Nomads
 - **Neha Anand** - [GitHub](https://github.com/NehaAnand28) | [LinkedIn](https://www.linkedin.com/in/neha-anand-927157200/)
 - **Sukriti Bohra** - [GitHub](https://github.com/sukriti136) | [LinkedIn](https://www.linkedin.com/in/sukriti-bohra-b93795218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 )
-- **Nikhil Giri** - [GitHub](#) | [LinkedIn](#)
-- **Aishwarya Attanti** - [GitHub](#) | [LinkedIn](#)
-- **Lalitha Ramakrishnan** - [GitHub](#) | [LinkedIn](#)
+- **Nikhil Giri** - [GitHub](https://github.com/NikhilGiri29) | [LinkedIn](https://www.linkedin.com/in/nikhil-giri-aa7704200/?originalSubdomain=in)
+- **Aishwarya Attanti** - [GitHub](https://github.com/attanti123) | [LinkedIn](https://www.linkedin.com/in/attanti123/)
+- **Lalitha Ramakrishnan** - [LinkedIn](https://www.linkedin.com/in/lalitha-ramakrishnan-0a8b66a/)
