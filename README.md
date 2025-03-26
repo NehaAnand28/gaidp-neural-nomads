@@ -7,6 +7,7 @@
 - [What It Does](#%EF%B8%8F-what-it-does)
 - [How We Built It](#%EF%B8%8F-how-we-built-it)
 - [Challenges We Faced](#-challenges-we-faced)
+- [Future Scope](#-future-scope)
 - [How to Run](#-how-to-run)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
 - [Team](#-team-name--neural-nomads)
@@ -67,6 +68,10 @@ Our solution was developed using a diverse set of modern technologies and tools 
 1.   **Custom Chainlit Component Development:** Developing a custom Chainlit component that integrates with React allowed us to push the boundaries of conversational interface design. Overcoming compatibility issues and ensuring responsiveness enabled us to create a highly intuitive user experience, enhancing the overall usability of our solution.
 
 2.   **Optimizing Free-Tier Models:** Leveraging free-tier models required us to be creative and resourceful. Despite limitations in accuracy and RPM allowances, we successfully optimized our solution to maximize performance within these constraints. This experience honed our ability to efficiently utilize resources and develop scalable, cost-effective solutions.
+
+## 🔜 Future Scope
+![Gen AI Hackathon](https://github.com/user-attachments/assets/e374416e-d9b8-4a6d-a333-252485493000)
+
 
 ## 🏃 How to Run
 1. **Clone the repository**  
