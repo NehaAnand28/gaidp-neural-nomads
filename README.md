@@ -147,6 +147,9 @@ Our solution was developed using a diverse set of modern technologies and tools 
 - 🔹 Backend: FastAPI , Python
 - 🔹 Database: SQLite3
 - 🔹 Other: Gemini AI API
+  
+![Gen AI Hackathon (1)](https://github.com/user-attachments/assets/dec27744-53c9-4c04-a645-b4ac1dd21f19)
+  
 
 ## 👥 Team Name : Neural Nomads
 - **Neha Anand** - [GitHub](https://github.com/NehaAnand28) | [LinkedIn](https://www.linkedin.com/in/neha-anand-927157200/)
